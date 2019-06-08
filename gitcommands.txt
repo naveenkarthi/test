@@ -7,4 +7,5 @@ git merge
 git checkout
 git reset
 git rebase
+git log
 
