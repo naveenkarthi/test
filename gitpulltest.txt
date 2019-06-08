@@ -1,2 +1,0 @@
-This file is for testing the gitpull command
-Hi the content is added
