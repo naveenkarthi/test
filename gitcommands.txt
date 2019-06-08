@@ -4,4 +4,5 @@ git commit
 git pull
 git tag
 git merge
+git checkout
 
