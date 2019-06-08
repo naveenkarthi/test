@@ -8,4 +8,5 @@ git checkout
 git reset
 git rebase
 git log
+git ignore
 
