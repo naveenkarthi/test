@@ -5,7 +5,10 @@ git pull
 git tag
 git merge
 git checkout
+<<<<<<< HEAD
 git reset
 git rebase
 git log
+=======
+>>>>>>> parent of b310066... reset
 
